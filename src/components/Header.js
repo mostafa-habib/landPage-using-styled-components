@@ -15,13 +15,9 @@ function Header() {
             <Flex>
                 <div>
                     <h1>Bulid the comunity your fans will love</h1>
-                    <p>Bulid the comunity your fans will love 
-                    Bulid the comunity your fans will love
-                    Bulid the comunity your fans will love
-                    Bulid the comunity your fans will love
-                    Bulid the comunity your fans will love
-                    Bulid the comunity your fans will love
-                    Bulid the comunity your fans will love
+                    <p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
+    nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
                     </p>
                     <Button bg="#ff0099" color='#fff'>
                         Get Started For Free
